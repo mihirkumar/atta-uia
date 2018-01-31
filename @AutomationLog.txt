@@ -1,0 +1,16 @@
+There is an Edge window open :D
+                                ControlType: DataGridControl    ClassName:     AutomationId: test    Rect: (8, 160, 1912, 179)    Name:     Handle: 0x0(0)    Depth: 8    RowCount: 1    ColumnCount: 8
+2018-01-31 16:27:45.931 Function: mihirTest, Line: 909 -> Ends
+
+There is an Edge window open :D
+                                ControlType: DataGridControl    ClassName:     AutomationId: test    Rect: (8, 160, 1912, 179)    Name:     Handle: 0x0(0)    Depth: 8    RowCount: 1    ColumnCount: 8
+2018-01-31 16:29:11.367 Function: mihirTest, Line: 909 -> Ends
+
+There is an Edge window open :D
+                                ControlType: DataGridControl    ClassName:     AutomationId: test    Rect: (8, 160, 1912, 179)    Name:     Handle: 0x0(0)    Depth: 8    RowCount: 1    ColumnCount: 8
+2018-01-31 16:29:16.689 Function: mihirTest, Line: 909 -> Ends
+
+There is an Edge window open :D
+                                ControlType: DataGridControl    ClassName:     AutomationId: test    Rect: (8, 160, 1912, 179)    Name:     Handle: 0x0(0)    Depth: 8    RowCount: 1    ColumnCount: 8
+2018-01-31 16:29:44.804 Function: mihirTest, Line: 909 -> Ends
+
