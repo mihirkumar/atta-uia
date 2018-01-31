@@ -21,7 +21,7 @@ NOTE: The ATTA can be tweaked to work with the latest versions of Firefox and Ch
 
 ## Running WPT with ATTA to get ARIA 1.1 and CORE AAM test results
 
-1. Start Chrome or Firefox (e.g. typically canary or firefox nightly) to start a test run
+1. Start Microsoft Edge to start a test run
 1. Go to the [W3C WPT Test Runner](http://w3c-test.org/tools/runner/index.html )
 1. To run the [ARIA 1.1 test cases](https://www.w3.org/wiki/ARIA_1.1_Testable_Statements), enter  ```/wai-ara/``` to the textbox label ```Run tests under path```.
 1. Start the ATTA for UIA (see command below)
