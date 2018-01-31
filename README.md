@@ -16,7 +16,8 @@ This project contains an ATTA for Microsoft UI Automation (UIA) accessibility AP
 ## Supported Browsers
 
 * Microsoft Edge
-NOTE: The ATTA can be tweaked to work with the latest versions of Firefox and Chrome at the time of writing, but the results obtained on browsers other than Microsoft Edge have not been tested.
+
+NOTE: The ATTA can be tweaked to work with the latest versions of Firefox and Chrome at the time of writing, but the results obtained on browsers other than Microsoft Edge have not been tested. You might need to follow instructions provided [here](https://github.com/illinois-dres-aitg/atta-msaa-iaccessible2#enabling-accessibility-apis-on-chrome) to make Chrome expose Accessibility API information.
 
 ## Running WPT with ATTA to get ARIA 1.1 and CORE AAM test results
 
