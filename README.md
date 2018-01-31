@@ -10,7 +10,7 @@ This project contains an ATTA for Microsoft UI Automation (UIA) accessibility AP
 * Requirements file for virtual environment:
 
 ```
-  uiautomation==1.1.3
+  uiautomation==1.1.4
 ```
 
 ## Supported Browsers
