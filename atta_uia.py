@@ -2,8 +2,7 @@
 #
 # ia2_atta
 #
-# Accessible Technology Test Adapter for MSAA+IAccessible2
-# Tests MSAA+IAccessible2 (server-side) implementations via MSAA+IAccessible2 (client-side)
+# Accessible Technology Test Adapter for Microsoft UI Automate
 #
 # Developed by Jon Gunderson and Mihir Kumar
 # Copyright (c) 2017 University of Illinois
@@ -46,9 +45,9 @@ if __name__ == "__main__":
     # ia2_atta.start(ia2_atta)
     uia_atta.start(uia_atta)
     # pyia2.Registry.start()
-    
+
     # uia_atta.mihirTest()
-    
+
     # print("Shutting down...")
     # ia2_atta.shutdown(ia2_atta, signal.SIGTERM)
     # sys.exit(1)
