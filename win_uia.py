@@ -422,10 +422,41 @@ class Atta(object):
             elif property_name == acc_elem.ControlTypeName[:-7] + '.RowSpan':
                 value = str(acc_elem.CurrentRowSpan())
 
+            elif property_name == 'Toggle.ToggleState':
+                try:
+                    value = str(acc_elem.CurrentToggleState())
+                except:
+                    print "Can't get acc_elem.CurrentToggleState()"
+
+            elif property_name == 'LocalizedControlType':
+                try:
+                    value = str(acc_elem.LocalizedControlType())
+                except:
+                    print "Can't get acc_elem.LocalizedControlType()"
+
+            elif property_name == 'Window.isModal':
+                try:
+                    value = str(acc_elem.CurrentIsModal())
+                except:
+                    print "Can't get acc_elem.CurrentIsModal()"
+
+            elif property_name == 'IUIAutomationElement.UIA_IsKeyboardFocusablePropertyId':
+                try:
+                    value = acc_elem.IsKeyboardFocusable()
+                except:
+                    print "Can't get acc_elem.IsKeyboardFocusable()"
+
+            elif property_name == 'IUIAutomationElement.UIA_HasKeyboardFocusPropertyId':
+                try:
+                    value = acc_elem.HasKeyboardFocus()
+                except:
+                    print "Can't get acc_elem.HasKeyboardFocus()"
+
             elif property_name == 'IUIAutomationElement.Orientation':
-                print 'IUIAutomationElement.Orientation: '
-                print type(acc_elem.GetCurrentSelection())
-                value = str(acc_elem.GetCurrentSelection())
+                try:
+                    value = str(acc_elem.GetCurrentSelection())
+                except:
+                    print "Can't get acc_elem.GetCurrentSelection()"
 
             elif property_name == 'Value.IsReadOnly':
                 try:
@@ -785,7 +816,8 @@ class Atta(object):
 
         # AutomationIds can be: 'cell', 'test'
 
-        if control.AutomationId != 'test' and control.AutomationId != 'cell':
+        if control.AutomationId != 'test':
+            # and control.AutomationId != 'cell'
             return
 
         def getKeyName(theDict, theValue):

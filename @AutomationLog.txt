@@ -14,3 +14,81 @@ There is an Edge window open :D
                                 ControlType: DataGridControl    ClassName:     AutomationId: test    Rect: (8, 160, 1912, 179)    Name:     Handle: 0x0(0)    Depth: 8    RowCount: 1    ColumnCount: 8
 2018-01-31 16:29:44.804 Function: mihirTest, Line: 909 -> Ends
 
+There is an Edge window open :D
+                                ControlType: PaneControl    ClassName:     AutomationId: test    Rect: (8, 269, 1912, 290)    Name:     Handle: 0x0(0)    Depth: 8
+2018-01-31 16:42:53.432 Function: mihirTest, Line: 909 -> Ends
+
+There is an Edge window open :D
+                                ControlType: PaneControl    ClassName:     AutomationId: test    Rect: (8, 269, 1912, 290)    Name:     Handle: 0x0(0)    Depth: 8
+2018-01-31 16:49:14.259 Function: mihirTest, Line: 916 -> Ends
+
+There is an Edge window open :D
+                                ControlType: PaneControl    ClassName:     AutomationId: test    Rect: (8, 269, 1912, 290)    Name:     Handle: 0x0(0)    Depth: 8
+2018-01-31 16:50:45.893 Function: mihirTest, Line: 916 -> Ends
+
+There is an Edge window open :D
+                                ControlType: PaneControl    ClassName:     AutomationId: test    Rect: (8, 205, 1912, 224)    Name:     Handle: 0x0(0)    Depth: 8
+2018-01-31 16:52:40.540 Function: mihirTest, Line: 919 -> Ends
+
+There is an Edge window open :D
+                                ControlType: PaneControl    ClassName:     AutomationId: test    Rect: (8, 205, 1912, 224)    Name:     Handle: 0x0(0)    Depth: 8
+2018-01-31 16:52:40.782 Function: mihirTest, Line: 919 -> Ends
+
+There is an Edge window open :D
+                                ControlType: PaneControl    ClassName:     AutomationId: test    Rect: (8, 205, 1912, 224)    Name:     Handle: 0x0(0)    Depth: 8
+2018-01-31 16:57:45.412 Function: mihirTest, Line: 919 -> Ends
+
+There is an Edge window open :D
+                                ControlType: PaneControl    ClassName:     AutomationId: test    Rect: (8, 205, 1912, 224)    Name:     Handle: 0x0(0)    Depth: 8
+2018-01-31 16:57:45.642 Function: mihirTest, Line: 919 -> Ends
+
+There is an Edge window open :D
+                                ControlType: PaneControl    ClassName:     AutomationId: test    Rect: (8, 205, 1912, 224)    Name:     Handle: 0x0(0)    Depth: 8
+2018-01-31 17:00:06.786 Function: mihirTest, Line: 922 -> Ends
+
+There is an Edge window open :D
+                                ControlType: PaneControl    ClassName:     AutomationId: test    Rect: (8, 205, 1912, 224)    Name:     Handle: 0x0(0)    Depth: 8
+2018-01-31 17:00:07.055 Function: mihirTest, Line: 922 -> Ends
+
+There is an Edge window open :D
+                                ControlType: PaneControl    ClassName:     AutomationId: test    Rect: (8, 205, 1912, 224)    Name:     Handle: 0x0(0)    Depth: 8
+2018-01-31 17:04:46.820 Function: mihirTest, Line: 934 -> Ends
+
+There is an Edge window open :D
+                                ControlType: PaneControl    ClassName:     AutomationId: test    Rect: (8, 205, 1912, 224)    Name:     Handle: 0x0(0)    Depth: 8
+2018-01-31 17:04:47.047 Function: mihirTest, Line: 934 -> Ends
+
+There is an Edge window open :D
+                                ControlType: CheckBoxControl    ClassName:     AutomationId: test    Rect: (8, 205, 1912, 224)    Name: power    Handle: 0x0(0)    Depth: 8
+2018-02-01 03:04:02.504 Function: mihirTest, Line: 940 -> Ends
+
+TogglePattern is not supported!
+There is an Edge window open :D
+2018-02-01 03:09:48.173 Function: mihirTest, Line: 941 -> Ends
+
+There is an Edge window open :D
+2018-02-01 03:10:17.317 Function: mihirTest, Line: 941 -> Ends
+
+There is an Edge window open :D
+2018-02-01 03:10:26.335 Function: mihirTest, Line: 941 -> Ends
+
+There is an Edge window open :D
+                                ControlType: CheckBoxControl    ClassName:     AutomationId: test    Rect: (8, 160, 1912, 179)    Name: power    Handle: 0x0(0)    Depth: 8
+2018-02-01 03:11:38.285 Function: mihirTest, Line: 940 -> Ends
+
+TogglePattern is not supported!
+There is an Edge window open :D
+                                ControlType: DataGridControl    ClassName:     AutomationId: test    Rect: (8, 160, 1912, 179)    Name:     Handle: 0x0(0)    Depth: 8    RowCount: 1    ColumnCount: 8
+2018-02-01 03:12:18.784 Function: mihirTest, Line: 940 -> Ends
+
+There is an Edge window open :D
+                                ControlType: DataGridControl    ClassName:     AutomationId: test    Rect: (8, 160, 1912, 179)    Name:     Handle: 0x0(0)    Depth: 8    RowCount: 1    ColumnCount: 8
+2018-02-01 03:12:54.802 Function: mihirTest, Line: 940 -> Ends
+
+There is an Edge window open :D
+2018-02-01 03:14:35.972 Function: mihirTest, Line: 941 -> Ends
+
+There is an Edge window open :D
+                                ControlType: DataGridControl    ClassName:     AutomationId: test    Rect: (8, 160, 1912, 179)    Name:     Handle: 0x0(0)    Depth: 8    RowCount: 1    ColumnCount: 8
+2018-02-01 03:15:24.302 Function: mihirTest, Line: 941 -> Ends
+
